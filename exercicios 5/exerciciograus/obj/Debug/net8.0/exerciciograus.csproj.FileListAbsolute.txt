@@ -1,0 +1,14 @@
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\bin\Debug\net8.0\exerciciograus.exe
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\bin\Debug\net8.0\exerciciograus.deps.json
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\bin\Debug\net8.0\exerciciograus.runtimeconfig.json
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\bin\Debug\net8.0\exerciciograus.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\bin\Debug\net8.0\exerciciograus.pdb
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\obj\Debug\net8.0\exerciciograus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\obj\Debug\net8.0\exerciciograus.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\obj\Debug\net8.0\exerciciograus.AssemblyInfo.cs
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\obj\Debug\net8.0\exerciciograus.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\obj\Debug\net8.0\exerciciograus.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\obj\Debug\net8.0\refint\exerciciograus.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\obj\Debug\net8.0\exerciciograus.pdb
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\obj\Debug\net8.0\exerciciograus.genruntimeconfig.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\5\exerciciograus\obj\Debug\net8.0\ref\exerciciograus.dll

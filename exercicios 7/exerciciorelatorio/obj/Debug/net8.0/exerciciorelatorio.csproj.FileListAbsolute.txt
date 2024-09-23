@@ -1,0 +1,14 @@
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\bin\Debug\net8.0\exerciciorelatorio.exe
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\bin\Debug\net8.0\exerciciorelatorio.deps.json
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\bin\Debug\net8.0\exerciciorelatorio.runtimeconfig.json
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\bin\Debug\net8.0\exerciciorelatorio.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\bin\Debug\net8.0\exerciciorelatorio.pdb
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\obj\Debug\net8.0\exerciciorelatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\obj\Debug\net8.0\exerciciorelatorio.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\obj\Debug\net8.0\exerciciorelatorio.AssemblyInfo.cs
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\obj\Debug\net8.0\exerciciorelatorio.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\obj\Debug\net8.0\exerciciorelatorio.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\obj\Debug\net8.0\refint\exerciciorelatorio.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\obj\Debug\net8.0\exerciciorelatorio.pdb
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\obj\Debug\net8.0\exerciciorelatorio.genruntimeconfig.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\7\exerciciorelatorio\obj\Debug\net8.0\ref\exerciciorelatorio.dll

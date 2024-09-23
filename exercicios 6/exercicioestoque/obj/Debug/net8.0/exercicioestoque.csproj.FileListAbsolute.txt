@@ -1,0 +1,14 @@
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\bin\Debug\net8.0\exercicioestoque.exe
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\bin\Debug\net8.0\exercicioestoque.deps.json
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\bin\Debug\net8.0\exercicioestoque.runtimeconfig.json
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\bin\Debug\net8.0\exercicioestoque.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\bin\Debug\net8.0\exercicioestoque.pdb
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\obj\Debug\net8.0\exercicioestoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\obj\Debug\net8.0\exercicioestoque.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\obj\Debug\net8.0\exercicioestoque.AssemblyInfo.cs
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\obj\Debug\net8.0\exercicioestoque.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\obj\Debug\net8.0\exercicioestoque.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\obj\Debug\net8.0\refint\exercicioestoque.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\obj\Debug\net8.0\exercicioestoque.pdb
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\obj\Debug\net8.0\exercicioestoque.genruntimeconfig.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\6\exercicioestoque\obj\Debug\net8.0\ref\exercicioestoque.dll

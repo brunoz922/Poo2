@@ -1,0 +1,42 @@
+C:\Users\Unip\Downloads\listaexercicios\bin\Debug\net8.0\listaexercicios.exe
+C:\Users\Unip\Downloads\listaexercicios\bin\Debug\net8.0\listaexercicios.deps.json
+C:\Users\Unip\Downloads\listaexercicios\bin\Debug\net8.0\listaexercicios.runtimeconfig.json
+C:\Users\Unip\Downloads\listaexercicios\bin\Debug\net8.0\listaexercicios.dll
+C:\Users\Unip\Downloads\listaexercicios\bin\Debug\net8.0\listaexercicios.pdb
+C:\Users\Unip\Downloads\listaexercicios\obj\Debug\net8.0\listaexercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unip\Downloads\listaexercicios\obj\Debug\net8.0\listaexercicios.AssemblyInfoInputs.cache
+C:\Users\Unip\Downloads\listaexercicios\obj\Debug\net8.0\listaexercicios.AssemblyInfo.cs
+C:\Users\Unip\Downloads\listaexercicios\obj\Debug\net8.0\listaexercicios.csproj.CoreCompileInputs.cache
+C:\Users\Unip\Downloads\listaexercicios\obj\Debug\net8.0\listaexercicios.dll
+C:\Users\Unip\Downloads\listaexercicios\obj\Debug\net8.0\refint\listaexercicios.dll
+C:\Users\Unip\Downloads\listaexercicios\obj\Debug\net8.0\listaexercicios.pdb
+C:\Users\Unip\Downloads\listaexercicios\obj\Debug\net8.0\listaexercicios.genruntimeconfig.cache
+C:\Users\Unip\Downloads\listaexercicios\obj\Debug\net8.0\ref\listaexercicios.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\bin\Debug\net8.0\listaexercicios.exe
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\bin\Debug\net8.0\listaexercicios.deps.json
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\bin\Debug\net8.0\listaexercicios.runtimeconfig.json
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\bin\Debug\net8.0\listaexercicios.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\bin\Debug\net8.0\listaexercicios.pdb
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\obj\Debug\net8.0\listaexercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\obj\Debug\net8.0\listaexercicios.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\obj\Debug\net8.0\listaexercicios.AssemblyInfo.cs
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\obj\Debug\net8.0\listaexercicios.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\obj\Debug\net8.0\listaexercicios.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\obj\Debug\net8.0\refint\listaexercicios.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\obj\Debug\net8.0\listaexercicios.pdb
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\obj\Debug\net8.0\listaexercicios.genruntimeconfig.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\listaexercicios\obj\Debug\net8.0\ref\listaexercicios.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\bin\Debug\net8.0\listaexercicios.exe
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\bin\Debug\net8.0\listaexercicios.deps.json
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\bin\Debug\net8.0\listaexercicios.runtimeconfig.json
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\bin\Debug\net8.0\listaexercicios.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\bin\Debug\net8.0\listaexercicios.pdb
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\obj\Debug\net8.0\listaexercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\obj\Debug\net8.0\listaexercicios.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\obj\Debug\net8.0\listaexercicios.AssemblyInfo.cs
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\obj\Debug\net8.0\listaexercicios.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\obj\Debug\net8.0\listaexercicios.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\obj\Debug\net8.0\refint\listaexercicios.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\obj\Debug\net8.0\listaexercicios.pdb
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\obj\Debug\net8.0\listaexercicios.genruntimeconfig.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\1,2 e 4\listaexercicios\obj\Debug\net8.0\ref\listaexercicios.dll

@@ -1,0 +1,14 @@
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\bin\Debug\net8.0\exercicioveiculos.exe
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\bin\Debug\net8.0\exercicioveiculos.deps.json
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\bin\Debug\net8.0\exercicioveiculos.runtimeconfig.json
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\bin\Debug\net8.0\exercicioveiculos.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\bin\Debug\net8.0\exercicioveiculos.pdb
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\obj\Debug\net8.0\exercicioveiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\obj\Debug\net8.0\exercicioveiculos.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\obj\Debug\net8.0\exercicioveiculos.AssemblyInfo.cs
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\obj\Debug\net8.0\exercicioveiculos.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\obj\Debug\net8.0\exercicioveiculos.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\obj\Debug\net8.0\refint\exercicioveiculos.dll
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\obj\Debug\net8.0\exercicioveiculos.pdb
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\obj\Debug\net8.0\exercicioveiculos.genruntimeconfig.cache
+C:\Users\Meu Computador\Downloads\listaexercicios-20240920T040546Z-001\3\exercicioveiculos\obj\Debug\net8.0\ref\exercicioveiculos.dll
